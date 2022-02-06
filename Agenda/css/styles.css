@@ -1,0 +1,48 @@
+.table{
+
+    display: table;
+    width: 960px;
+
+}
+
+.heading{
+    display: table-row;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.cell{
+
+    display: table-cell;
+    border: solid;
+    border-width: thin;
+
+}
+
+.cellHora{
+    
+    background-color: darkgrey;
+    display: table-cell;
+    border: solid;
+    border-width: thin;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.cellDay{
+    
+    background-color: cornsilk;
+    display: table-cell;
+    border: solid;
+    border-width: thin;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: blue;
+}
+
+.row{
+
+    display: table-row;
+
+}
