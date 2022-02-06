@@ -1,0 +1,6 @@
+[submodule "Test-Capitaria"]
+	path = Test-Capitaria
+	url = https://github.com/FenixMatias/Test-Capitaria.git
+[submodule "colegio"]
+	path = colegio
+	url = https://github.com/FenixMatias/Test-Capitaria.git
